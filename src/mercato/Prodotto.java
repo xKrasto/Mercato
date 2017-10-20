@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author Alex
+ * @author XenSide, stealer del cazzo.
  */
 public class Prodotto {
     private final String nome;
