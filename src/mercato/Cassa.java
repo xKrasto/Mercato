@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Alex
+ * @author XenSide OMEGALUL
  */
 public class Cassa {
     
